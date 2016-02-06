@@ -1,0 +1,2 @@
+class CuentaNoPermitidaError < StandardError
+end
