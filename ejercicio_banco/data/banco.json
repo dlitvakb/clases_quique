@@ -1,0 +1,122 @@
+{
+  "nombre": "banco quique",
+  "personas": [
+    {
+      "nombre": "Melu",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 500
+        }
+      ]
+    },
+    {
+      "nombre": "jyrgrwr",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "quiquito",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "ktynrbv",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "ktundfsvd",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "asdadfwef",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "asdadfwef",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "qfqf",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "wefwefw",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "fwe",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "asdasd",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "asdad",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    },
+    {
+      "nombre": "dave",
+      "cuentas": [
+        {
+          "tipo": "ahorro",
+          "monto": 0
+        }
+      ]
+    }
+  ]
+}

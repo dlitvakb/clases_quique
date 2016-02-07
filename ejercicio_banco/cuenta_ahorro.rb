@@ -9,4 +9,8 @@ class CuentaAhorro < Cuenta
     fail SinSaldoError, "no tenes saldo suficiente" if self.monto - monto < 0
     super(monto)
   end
+
+  def tipo_cuenta
+    'ahorro'
+  end
 end

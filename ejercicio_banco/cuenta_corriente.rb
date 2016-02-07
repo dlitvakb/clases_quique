@@ -8,4 +8,8 @@ class CuentaCorriente < Cuenta
   def depositar(monto)
     super(monto - (monto * 21.0/100))
   end
+
+  def tipo_cuenta
+    'corriente'
+  end
 end
